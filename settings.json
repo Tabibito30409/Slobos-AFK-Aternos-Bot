@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Baotoi_.aternos.me",
+    "ip": "crestfish.aternos.host:22260",
     "port": 22260,
     "version": "",
     "try-creative": false
