@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "crestfish.aternos.host:22260",
+    "ip": "crestfish.aternos.host",
     "port": 22260,
     "version": "",
     "try-creative": false
