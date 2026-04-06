@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Bot11",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "crestfish.aternos.host",
+    "ip": "Baotoi_.aternos.host",
     "port": 22260,
     "version": "",
     "try-creative": false
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Chào mừng đến với server!",
+        "Chúc mọi người chơi vui vẻ!",
+        "Tôi thích chơi Minecraft, còn bạn?"
       ]
     },
     "chat-log": true,
